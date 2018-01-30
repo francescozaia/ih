@@ -1,0 +1,22 @@
+main:
+  title: "Italia hubs"
+  text: "<p class=\"text-faded mb-4\">Italia Hubs è nata dall’esigenza di mettere a sistema il modello Developers Italia e proprio durante la premiazione dell’Hackathon Developers Italia (Roma - 23 Novembre 2017) si è iniziato a parlare di creare una rete di Hub Locali per sviluppare community di digital makers riunendole attorno a progetti pubblici.</p>
+  <p class=\"text-faded mb-4\">A Torino si è creato il primo Hub locale che ha lavorato alla definizione del modello di Federazione e allo sviluppo di un paper che definisce il ruolo degli Hub costituendo il primo nodo (eHUB).</p>"
+whitepaper:
+  title: "Whitepaper"
+  text: "Tityre, tu patulae recubans sub tegmine fagi dolor. Morbi odio eros, volutpat ut pharetra vitae, lobortis sed nibh. Ullamco laboris nisi ut aliquid ex ea commodi consequat. Quisque placerat facilisis egestas cillum dolore."
+  who-we-are:
+    - name: "Alessandro Nasi"
+      bio: "Fictum, deserunt mollit anim laborum astutumque! Prima luce, cum quibus mons aliud consensu ab eo. Petierunt uti sibi concilium totius Galliae in diem certam indicere."
+    - name: "Riccardo Iaconelli"
+      bio: "Mercedem aut nummos unde unde extricat, amaras. Ambitioni dedisse scripsisse iudicaretur. Quisque ut dolor gravida, placerat libero vel, euismod."
+    - name: "Giulietta testa"
+      bio: "Mercedem aut nummos unde unde extricat, amaras. Idque Caesaris facere voluntate liceret: sese habere. Quo usque tandem abutere, Catilina, patientia nostra?"
+participate:
+  title: "Participate"
+  text: "Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. Pellentesque habitant morbi tristique senectus et netus. Quam temere in vitiis, legem sancimus haerentia. Quis aute iure reprehenderit in voluptate velit esse. At nos hinc posthac, sitientis piros Afros."
+  phone:  +00 000 000 000
+  email:  my@email.com
+footer:
+  text: "<p>I am the footer <a href=\"../../\">blah</a>.</p>"
+
